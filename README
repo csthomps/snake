@@ -1,0 +1,5 @@
+Snake game
+
+Playable by human or AI
+
+Uses Q learning to train neural network
